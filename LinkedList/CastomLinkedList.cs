@@ -62,7 +62,7 @@ namespace LinkedList
         public void Display()
         {
             Nodo current = head;
-            Console.WriteLine("Lista: ");
+            Console.Write("Lista: ");
             while (current != null)
             {
                 Console.Write($"{current.Data} --> ");

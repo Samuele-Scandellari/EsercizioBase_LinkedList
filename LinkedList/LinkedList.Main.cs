@@ -9,7 +9,7 @@ namespace LinkedList
         {
             CastomLinkedList lista = new CastomLinkedList();
 
-            Console.WriteLine("--- Test Linked List ---");
+            Console.WriteLine("--- Test Linked List --- \n");
 
             lista.AggiungiUltimo(10);
             lista.AggiungiUltimo(20);
